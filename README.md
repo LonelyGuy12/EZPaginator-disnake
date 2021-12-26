@@ -9,7 +9,7 @@ And I got no mere idea of how this works lol
 ## Install
 
 ```
-pip install EZPaginator
+pip install -U git+https://github.com/LonelyGuy12/EZPaginator-disnake
 ```
 
 ## Usage
