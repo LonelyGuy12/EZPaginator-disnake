@@ -3,8 +3,6 @@
 ![](https://img.shields.io/badge/python-%3E%3D%203.6-blue)
 
 Simple pagination wrapper for disnake.
-Listen all I did was discord ~> disnake
-And I got no mere idea of how this works lol
 
 ## Install
 
